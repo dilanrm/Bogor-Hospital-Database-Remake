@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Rumah Sakit Bogor</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="with_cardview">with CardView</string>
+    <string name="lokasi">Lokasi</string>
+    <string name="hubungi">Hubungi</string>
+</resources>
